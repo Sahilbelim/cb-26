@@ -2,4 +2,8 @@
 
 ---------------------------------20/10/2023-----------------------------
 
-write a program to find area of cylinder .
+write a program to find area of cylinder.
+
+---------------------------------21/10/2023-----------------------------
+
+write a program to calclulet simple interetrest .
