@@ -7,3 +7,10 @@ write a program to find area of cylinder.
 ---------------------------------21/10/2023-----------------------------
 
 write a program to calclulet simple interetrest .
+
+---------------------------------23/10/2023-----------------------------
+
+write a program to find subraction ,multiplication , divion and module get  input from user using scanf .
+
+
+write a program to print multiplication table of given number .
