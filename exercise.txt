@@ -14,3 +14,11 @@ write a program to find subraction ,multiplication , divion and module get  inpu
 
 
 write a program to print multiplication table of given number .
+
+---------------------------------24/10/2023-----------------------------
+
+write a program to find area of cylinder .
+
+write a program to find Qube ( ghan ) of Given number .
+
+write a program to find area of Triangle . 
