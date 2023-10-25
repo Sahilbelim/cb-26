@@ -22,3 +22,12 @@ write a program to find area of cylinder .
 write a program to find Qube ( ghan ) of Given number .
 
 write a program to find area of Triangle . 
+
+---------------------------------25/10/2023-----------------------------
+
+write a program to swap of two given number .
+
+write a program to get height in foot or inch and then convert into metere .
+
+foot = 5
+int = 3
