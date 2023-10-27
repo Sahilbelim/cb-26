@@ -31,3 +31,11 @@ write a program to get height in foot or inch and then convert into metere .
 
 foot = 5
 int = 3
+
+
+---------------------------------25/10/2023-----------------------------
+
+write a program to check number1 small. get two number from user .
+
+write a program to check user yearly incode more then 5 lakh calclulet tax and final income with 5 % rate . get monthly income .
+
