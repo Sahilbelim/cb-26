@@ -39,3 +39,9 @@ write a program to check number1 small. get two number from user .
 
 write a program to check user yearly incode more then 5 lakh calclulet tax and final income with 5 % rate . get monthly income .
 
+
+---------------------------------26/10/2023-----------------------------
+
+write a program to check given number is even or Odd .
+
+write a program to check given year is leap year or not .

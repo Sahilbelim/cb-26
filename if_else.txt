@@ -65,7 +65,7 @@ in program we want to execute few line of code if some conditions is true or we 
 --------------------------------
 if else decision making
     in this we check some condition, if condition is true then we will
-    execute some line of code otherwise we will execute some other line of code.
+    execute some line of code from if statement otherwise we will execute some other line of code from else.
     
     Syntax
     if (condition) //< > <= >= == !=
