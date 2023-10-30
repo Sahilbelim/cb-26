@@ -45,3 +45,7 @@ write a program to check user yearly incode more then 5 lakh calclulet tax and f
 write a program to check given number is even or Odd .
 
 write a program to check given year is leap year or not .
+
+---------------------------------27/10/2023-----------------------------
+
+write a to check Which number is Big . get 3 number from user .
