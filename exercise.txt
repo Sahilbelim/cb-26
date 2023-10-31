@@ -49,3 +49,10 @@ write a program to check given year is leap year or not .
 ---------------------------------27/10/2023-----------------------------
 
 write a to check Which number is Big . get 3 number from user .
+
+---------------------------------30/10/2023-----------------------------
+
+
+write a program to check which  triangle  is  biger ? get  3 triangle from user
+
+Check if a character is a vowel or a consonant.

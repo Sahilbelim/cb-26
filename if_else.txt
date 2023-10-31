@@ -17,8 +17,8 @@ operator
 >= - greater than equal too
 <= - less than eqaul to
 
- && - and
- || -or
+ && - and 
+ || -or 
  != -not  
  arithmetic operators
 +
