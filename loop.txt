@@ -1,6 +1,5 @@
 loop
 ---------------------------------------
-
 what is loop 
     repetition of some tasks many times as long as some condition is true is called loop.
     in loop we always do 3 things 
@@ -25,7 +24,6 @@ there are two types of loop
         exit control loop at least execute once. 
             do while loop 
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTGv8xOui2CRSZ_3fu5dbg23T-DSBGab_tR27BTNMfwOiV7SFNW4fbLUxMIU9Of_29b6I&usqp=CAU
 -------------------------------------------------------
 while loop 
 in while loop, we check some condition if it is true, then while loop will execute all code between braces {} pair. while loop continue to check condition and execute code as long as condition is true. if condition is false then while loop stop. 
@@ -46,13 +44,12 @@ syntax
         a               b           c 
     for(initialization;condition;increment/decrement)
     {
-        line 1
+        line 1  
         line 2
         .......
-
     }
     example 
-    for(i=1;i<10;i=i+1)
+    for(count=0;count<5;count++)
     {
 
     }
@@ -64,10 +61,7 @@ do while loop
     {
         line 1
         line 2
-        ......
-    k--;
-    i++;
-
+        ........
     }while(condition);
 
 what is nested loop?
