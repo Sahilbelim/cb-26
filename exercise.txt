@@ -81,3 +81,5 @@ Check if a character is a vowel or a consonant.
 1 ,4 ,9 ,16 ,25 , 36 ... 10000 using square formula . 
 
 
+
+https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
