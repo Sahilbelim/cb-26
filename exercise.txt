@@ -85,13 +85,13 @@ Check if a character is a vowel or a consonant.
 https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 
 
-1 -
+1 
 22
 333
 4444
 55555
 
-1
+1 
 12
 123
 1234
@@ -127,3 +127,18 @@ https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 123
 12
 1
+   
+-----------------------------------------------------------
+     1
+    2 2
+   3 3 3
+  4 4 4 4
+ 5 5 5 5 5
+
+     1
+    1 2
+   1 2 3
+  1 2 3 4
+ 1 2 3 4 5
+ 
+      
