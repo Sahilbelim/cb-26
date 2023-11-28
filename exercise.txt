@@ -192,3 +192,10 @@ j  j  j  j  j
 412 422 432 442 452  (j=1 , \n i++,k-- )
 511 521 531 541 551  (j=1 , \n i++,k-- )
 
+----------------------------------------------ARRAY----------------------------------------------------------
+
+-------------------------------------------28/11/2023---------------------------------------------------------
+
+write a program to get value , number of variable given by user .
+
+calclulet the score of creacket team get run from user for every player .
