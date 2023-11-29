@@ -2,13 +2,13 @@
 void main()
 {
     int n,k;
-    printf("Enter The Number of Triangle : \n ");
+    printf("Enter The Number of Triangle :  ");
     scanf("%d", &n);
     float height[n],base[n],area[n];
 
     for (k = 0; k < n;k++)
     {
-        printf("Enter The Value of Triangle - 1 \n");
+        printf("Enter The Value of Triangle - %d \n",k+1);
         printf("Enter  Height : ");
         scanf("%f", &height[k]);
         printf("Enter Base ");
