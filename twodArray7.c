@@ -41,26 +41,33 @@ void main()
   }
 
   printf("\n\n %d have Heigthest Avg of  %.2f \n",k+1, max);
-
-  //   if(max<=avg[0])
+// max=0
+//   k = 0;
+  //   if(max<=avg[0])10
   //   {
   //       max = avg[0];
+            // k=0
   //   }
-  //   if (max <= avg[1])
+  //   if (max <= avg[1])20
   //   {
   //       max = avg[1];
+            // k=1
   //   }
-  //   if (max <= avg[2])
+  //   if (max <= avg[2])30
   //   {
   //       max = avg[2];
+            // k=2
   //   }
-  //   if (max <= avg[3])
+  //   if (max <= avg[3])50
   //   {
   //       max = avg[3];
+            
   //   }
-  //   if (max <= avg[4])
+  //   if (max <= avg[4])40
+
   //   {
   //       max = avg[4];
+        // k=4
   //   }
 
   //   printf("Max = %.2f",max);
