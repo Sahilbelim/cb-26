@@ -2,15 +2,15 @@
 
 float getpi()
 {
-    float pi = 3.14159628;
-    return pi;
+  
+    return 3.14159628;
 }
 
 void main()
 {
     float pi, r, area;
     pi = getpi();
-
+    
     printf("Enter Value of Radius ");
     scanf("%f", &r);
 
