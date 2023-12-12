@@ -12,16 +12,16 @@ what is structure?
     syntax 
     struct structure-name 
     {
-        datatype variable;
-        datatype variable;
-        datatype variable;
+        datatype variable;//no
+        datatype variable;//name
+        datatype variable;//height
     };
 
     example 
     struct time 
     {
         int hour;
-        int minute;
+        float minute;
     };
 
     void main()
